@@ -1,12 +1,3 @@
-/*
-Author: Elizabeth Fassler
-Course: COP 2210 RVD 1231
-Date: 03/30/2023
-Assignment: Discussion (Loops)
-Instructor: Sergio Pisano
-Description: Coin Toss
-*/
-
 // Import section
 import java.io.*;
 import java.util.*;
