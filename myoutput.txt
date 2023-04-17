@@ -1,0 +1,28 @@
+*** Program Output of 2023-04-03 at 15:28 ***
+
+Past Coin-Toss Simulator Run: 
+Initially the coin faced up: heads
+1 Coin faced up: tails
+2 Coin faced up: heads
+3 Coin faced up: heads
+4 Coin faced up: tails
+5 Coin faced up: heads
+6 Coin faced up: tails
+7 Coin faced up: heads
+8 Coin faced up: heads
+9 Coin faced up: tails
+10 Coin faced up: tails
+11 Coin faced up: heads
+12 Coin faced up: heads
+13 Coin faced up: tails
+14 Coin faced up: heads
+15 Coin faced up: tails
+16 Coin faced up: heads
+17 Coin faced up: tails
+18 Coin faced up: heads
+19 Coin faced up: tails
+20 Coin faced up: tails
+ 
+Results: 
+Heads: 11
+Tails: 11
